@@ -1,0 +1,1 @@
+import Greeting from './components/Greeting';
